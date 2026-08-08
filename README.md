@@ -22,23 +22,18 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-- **[Okta Workforce Identity](https://www.okta.com/)**  
-  Leading cloud identity platform for workforce SSO, MFA, lifecycle management, adaptive access, and extensive application integrations.
-
-- **[Microsoft Entra ID](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-id)** (formerly Azure AD)  
-  Enterprise identity and access management tightly integrated with Microsoft 365 and Azure, offering SSO, conditional access, identity governance, and hybrid directory capabilities.
-
-- **[JumpCloud](https://jumpcloud.com/)**  
-  Cloud directory platform combining identity, device management, and access control for modern, heterogeneous environments.
-
-- **[Rippling Identity](https://www.rippling.com/)**  
-  Identity and access capabilities embedded within the broader Rippling workforce platform, linking HR data to provisioning and access.
-
-- **[OneLogin](https://www.onelogin.com/)**, **[Ping Identity](https://www.pingidentity.com/)**, **[IBM Security Verify](https://www.ibm.com/products/verify-identity)**, **[Cisco Duo](https://duo.com/)**, **[Google Cloud Identity](https://cloud.google.com/identity)**  
-  Additional strong commercial platforms covering SSO, MFA, directory services, passwordless authentication, and zero-trust access for workforce users.
-
-- **[Keycloak Cloud / managed offerings](https://www.keycloak.org/)**  
-  Hosted or commercially supported deployments of the leading open-source identity provider for teams that prefer not to self-host.
+| Product | Description | Pricing | Free Tier Limit |
+|---------|-------------|---------|-----------------|
+| **[Okta Workforce Identity](https://www.okta.com/)** | Leading cloud identity platform for workforce SSO, MFA, lifecycle management, adaptive access, and extensive application integrations. | Per User / Per Month | Developer Plan only (No production free tier) |
+| **[Microsoft Entra ID](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-id)** | Enterprise identity and access management tightly integrated with Microsoft 365 and Azure, offering SSO, conditional access, identity governance, and hybrid directory capabilities. | Included w/ MS subs / Premium tiers | 50,000 resources (default limit) |
+| **[JumpCloud](https://jumpcloud.com/)** | Cloud directory platform combining identity, device management, and access control for modern, heterogeneous environments. | Per User / Per Month | None (30-day trial only) |
+| **[Rippling Identity](https://www.rippling.com/)** | Identity and access capabilities embedded within the broader Rippling workforce platform, linking HR data to provisioning and access. | Custom Quote | None |
+| **[OneLogin](https://www.onelogin.com/)** | Commercial platform covering SSO, MFA, directory services, passwordless authentication, and zero-trust access. | Per User / Per Month | Developer trial |
+| **[Ping Identity](https://www.pingidentity.com/)** | Enterprise commercial platform covering SSO, MFA, directory services, passwordless authentication, and zero-trust access. | Custom Quote | None |
+| **[IBM Security Verify](https://www.ibm.com/products/verify-identity)** | Commercial identity platform covering SSO, MFA, directory services, passwordless authentication. | Tiered Pricing | Developer Edition available |
+| **[Cisco Duo](https://duo.com/)** | Security platform covering SSO, MFA, directory services, passwordless authentication, and zero-trust access for workforce users. | Per User / Per Month | Up to 10 users (Legacy Free edition) |
+| **[Google Cloud Identity](https://cloud.google.com/identity)** | Commercial platform covering SSO, MFA, directory services, passwordless authentication, and zero-trust access for workforce users. | Per User / Per Month (Premium) | Up to 50 users (Free edition) |
+| **[Keycloak Cloud / managed offerings](https://www.keycloak.org/)** | Hosted or commercially supported deployments of the leading open-source identity provider for teams that prefer not to self-host. | Varies by Provider | Varies by Provider |
 
 ## Open-Source GitHub Projects
 
